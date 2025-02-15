@@ -70,7 +70,9 @@ Drug discovery and development is a complex and resource-intensive process.  Opt
 
 - Save Outputs: Export the ligand structure as SDF and PNG files, and save ADMET data as CSV.
 
-##Technologies Used
+  (*Users can optimize any ADMET property defined in `admet_properties.txt`*)
+
+## Technologies Used
 - 👨🏻‍💻RDKit – For molecular representations and cheminformatics.
 - 👨🏻‍💻admet-ai – For ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) predictions.
 - 👨🏻‍💻pandas – For data handling and analysis.
