@@ -119,7 +119,7 @@ Along with that the ADMET propert of all the mutated molecules is listed in the 
 
 ### Mutation Results
 
-[View Mutation Results CSV](Results/generated_molecules_admet.csv)
+[View Mutation Results CSV](Results/mutation_results.csv)
 
 This table illustrates a typical output during the mutation phase of the genetic algorithm. It shows a selection of the mutations performed, including the specific mutation operator applied (e.g., Atom Deletion, Bond Order Modification), the SMILES string of the resulting mutated molecule, and the predicted value of the target ADMET property for that molecule.  This table offers insight into how the GA explores the chemical space, highlighting the types of structural changes that influence the target property.  The full mutation data, including all mutations and their corresponding properties, is stored in the `generated_molecules_admet.csv` file within the `results` directory.
 
