@@ -1,0 +1,59 @@
+1.	Molecular Weight
+2.	LogP
+3.	HBD
+4.	HBA
+5.	Rotatable Bonds
+6.	Polar Surface Area
+7.	Lipinski Score
+8.	Veber Score
+9.	Total Drug-Like Score
+10.	SMILES
+11.	molecular_weight
+12.	logP
+13.	hydrogen_bond_acceptors
+14.	hydrogen_bond_donors
+15.	Lipinski
+16.	QED
+17.	stereo_centers
+18.	tpsa
+19.	AMES
+20.	BBB_Martins
+21.	Bioavailability_Ma
+22.	CYP1A2_Veith
+23.	CYP2C19_Veith
+24.	CYP2C9_Substrate_CarbonMangels
+25.	CYP2C9_Veith
+26.	CYP2D6_Substrate_CarbonMangels
+27.	CYP2D6_Veith
+28.	CYP3A4_Substrate_CarbonMangels
+29.	CYP3A4_Veith
+30.	Carcinogens_Lagunin
+31.	ClinTox
+32.	DILI
+33.	HIA_Hou
+34.	NR-AR-LBD
+35.	NR-AR
+36.	NR-AhR
+37.	NR-Aromatase
+38.	NR-ER-LBD
+39.	NR-ER
+40.	NR-PPAR-gamma
+41.	PAMPA_NCATS
+42.	Pgp_Broccatelli
+43.	SR-ARE
+44.	SR-ATAD5
+45.	SR-HSE
+46.	SR-MMP
+47.	SR-p53
+48.	Skin_Reaction
+49.	hERG
+50.	Caco2_Wang
+51.	Clearance_Hepatocyte_AZ
+52.	Clearance_Microsome_AZ
+53.	Half_Life_Obach
+54.	HydrationFreeEnergy_FreeSolv
+55.	LD50_Zhu
+56.	Lipophilicity_AstraZeneca
+57.	PPBR_AZ
+58.	Solubility_AqSolDB
+59.	VDss_Lombardo
